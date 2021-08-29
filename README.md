@@ -1,6 +1,6 @@
-# Micro [![License](https://img.shields.io/badge/license-polyform:shield-blue)](https://polyformproject.org/licenses/shield/1.0.0/) [![Go Report Card](https://goreportcard.com/badge/micro/micro)](https://goreportcard.com/report/github.com/micro/micro) [![M3O](https://img.shields.io/badge/micro-cloud-red)](https://m3o.cloud/) 
+# Micro [![License](https://img.shields.io/badge/license-polyform:shield-blue)](https://polyformproject.org/licenses/shield/1.0.0/) [![M3O](https://img.shields.io/badge/micro-cloud-orange)](https://m3o.cloud/) [![Discord](https://img.shields.io/badge/discord-chat-purple)](https://discord.gg/TBR9bRjd6Z)  [![M3O](https://img.shields.io/badge/micro-slack-yellow)](https://slack.m3o.com) 
 
-Micro is a distributed OS built for the Cloud.
+Micro is a cloud platform for API development.
 
 ## Overview
 
@@ -17,9 +17,11 @@ with the complexity of distributed systems and provides simpler programmable abs
 - [Reference](https://micro.mu/reference) - In-depth reference for Micro CLI and services
 - [Resources](https://micro.mu/resources) - External resources and contributions
 - [Roadmap](https://micro.mu/roadmap) - Stuff on our agenda over the long haul
-- [Users](https://micro.mu/users) - Developers and companies using Micro in production
 - [FAQ](https://micro.mu/faq) - Frequently asked questions
-- [Blog](https://micro.mu/blog) - For the latest from us
+
+## Cloud
+
+Find the cloud hosted version at [m3o.com](https://m3o.com)
 
 ## Usage
 
@@ -27,8 +29,4 @@ See the [docs](https://micro.mu) for detailed information on the architecture, i
 
 ## License
 
-See [LICENSE](LICENSE) which makes use of [Polyform Shield](https://polyformproject.org/licenses/shield/1.0.0/).
-
-## Note
-
-This is not an open source project and there is no support of its use to anyone.
+See [LICENSE](LICENSE) which makes use of [Polyform Shield](https://polyformproject.org/licenses/shield/1.0.0/)
